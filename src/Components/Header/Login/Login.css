@@ -1,0 +1,58 @@
+/* .Loginpage {
+    height: auto;
+    max-width: 800px;
+    border-radius: 20px;
+    background: #141a34;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+form {
+    width: 40rem;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px red;
+    padding-bottom: 20px;
+
+}
+
+.Loginpage input {
+    width: 100%;
+    color: white;
+}
+
+.Loginpage h1 {
+    margin: 20px 75px;
+}
+
+.input-group input {
+    transform: translate(20%);
+}
+
+#signup-btn {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+#signup-btn:hover {
+    font-size: 20px;
+    font-weight: bold;
+    color: #141a34;
+    background-color: white;
+}
+
+.link {
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
